@@ -1,6 +1,9 @@
 # Andrés Cervantes :dragon:
 ## Data Scientist with Python :snake:
-<img src="./raw/artificial-intelligence-4389372_960_720.jpg" width="420" height="300"/>
+![Artificial Intelligence](/raw/artificial-intelligence-4389372_960_720.jpg)
+<div style="text-align: center;">
+<img src="./raw/artificial-intelligence-4389372_960_720.jpg" width="520" height="340" />
+</div>
 
 ## Welcome to my profile: 
 ![](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
