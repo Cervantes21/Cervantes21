@@ -3,10 +3,10 @@
 
 <link rel="stylesheet" type="text/css" href="./flatdesing/styles.css">
 
-<p aling="center"> <img src="./raw/artificial-intelligence-4389372_960_720.jpg"></p>
+<p aling="center"> <img src="./raw/artificial-intelligence-4389372_960_720.jpg" width= 320px height= 210px></p>
 
-## <span style="color:green">Welcome to my profile:</span>
-![](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
+## Welcome to my profile:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
 ![](https://twitter.com/intent/follow?screen_name=AndyDollin21")
 		![](https://img.shields.io/twitter/follow/AndyDollin21.svg?style=social)
 
