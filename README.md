@@ -10,7 +10,7 @@
 
 # Welcome to my profile: | ![visitors](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/vaakash/socializer@master/css/socializer.min.css">
+<link rel="stylesheet" type="text/css" href="socializer/css/socializer.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
 
 <div align="center"><div class="socializer a sr-32px sr-circle sr-float sr-bg-white sr-sw-1 sr-pad">
