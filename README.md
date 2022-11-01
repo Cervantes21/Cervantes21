@@ -1,14 +1,19 @@
 # Andrés Cervantes :dragon:
 ## Data Scientist with Python :snake:
 
-<link rel="stylesheet" type="img/css" href="./flatdesing/styles.css">
-
-<p aling="center"> <img src="./raw/artificial-intelligence-4389372_960_720.jpg"></p>
+<div align="center">
+	<a href="Artificial I">
+		<img src="./raw/artificial-intelligence-4389372_960_720.jpg" alt="press" height="325" width="470">
+	</a>
+</div>
 
 ## Welcome to my profile:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
 ![](https://twitter.com/intent/follow?screen_name=AndyDollin21")
 		![](https://img.shields.io/twitter/follow/AndyDollin21.svg?style=social)
+
+<link rel="stylesheet" src="./socializer/scss/socializer.scss"> 
+<div class="socializer a sr-32px sr-circle sr-float sr-bg-white sr-sw-1 sr-pad"><span class="sr-linkedin sr-text-in"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcervantes21%2F&amp;title=Linkedin&amp;summary=" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="text">LinkedIn</span></a></span></div>
 
 _____
 

@@ -28,9 +28,16 @@ This is a little repository to learn more about me ✅ &nbsp;
      
 ### Conect with me 🤝🏻
 - LinkedIn : www.linkedin.com/in/cervantes21
-   
+<div align="center">
+	<a href="Artificial I">
+		<img src="./raw/artificial-intelligence-4389372_960_720.jpg" alt="press" height="325" width="470">
+	</a><div align="right">
+	<a href="Data-Analysis">
+		<img src="./raw/data-analysis.gif" alt="Logo" height="220" width="300">
+	</a>
+</div>
 <!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cervantes21&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cervantes21&layout=compact)](https://github.com/cervantes21/github-readme-stats) -->
 
-
+https://www.linkedin.com/in/cervantes21/
 
 
