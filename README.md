@@ -1,5 +1,6 @@
-# Andrés Cervantes :dragon:
-## Data Scientist with Python :snake:
+# Andrés Cervantes :dragon: 
+### Data Scientist with Python :snake:
+
 
 <div align="center">
 	<a href="Artificial I">
@@ -7,13 +8,25 @@
 	</a>
 </div>
 
-## Welcome to my profile:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
+# Welcome to my profile: | ![visitors](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/vaakash/socializer@master/css/socializer.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+
+<div align="center"><div class="socializer a sr-32px sr-circle sr-float sr-bg-white sr-sw-1 sr-pad">
+<span class="sr-linkedin sr-text-in"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcervantes21%2F&amp;title=Linkedin&amp;summary=" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="text">LinkedIn</span></a></span></div>
+
 ![](https://twitter.com/intent/follow?screen_name=AndyDollin21")
 		![](https://img.shields.io/twitter/follow/AndyDollin21.svg?style=social)
 
-<link rel="stylesheet" src="./socializer/scss/socializer.scss"> 
-<div class="socializer a sr-32px sr-circle sr-float sr-bg-white sr-sw-1 sr-pad"><span class="sr-linkedin sr-text-in"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcervantes21%2F&amp;title=Linkedin&amp;summary=" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i><span class="text">LinkedIn</span></a></span></div>
+_____
+
+<div align="left">
+	<a href="Data-Analysis">
+		<img src="./raw/data-analysis.gif" alt="Logo" height="120" width="120">
+	</a>
+</div>
+
 
 _____
 
