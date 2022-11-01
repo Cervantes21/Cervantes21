@@ -43,6 +43,7 @@
   
   </p>
 </details>
+
 <!-- "Data Skill's" -->
 <details>
   <summary><b>🔍 Data skill's</b></summary>
@@ -57,11 +58,31 @@
   
   </p>
 </details>
+
+<!-- "Tech Stack" -->
+<details>
+  <summary><b>⚡ Tech Stack</b></summary>
+    <p>
+      <img align="right" width="250" src="./raw/coded-data.gif"/>
+	
+| **Category** | **Technologies** |
+| - | - |
+**Core** |[![Python](https://img.shields.io/static/v1?label=&message=Python&color=#2ecc71&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+**Cloud** | [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
+**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
+**Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
+**Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=d35400&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
+**Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=2980b9&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)    
+----
+  
+  </p>
+</details>
+
 <!-- "Business Intelligence" -->
 <details>
   <summary><b>📈 Business Intelligence</b></summary>
     <p>
-      <img align="right" width="250" src="./raw/data-analysis.gif"/>
+      <img align="right" width="250" src="./raw/descarga.png"/>
       
 <blockquote>
 <!-- agregar texto -->
@@ -71,6 +92,23 @@
   
   </p>
 </details>
+
+<!-- "Videomarketing & Design" -->
+<details>
+  <summary><b>📹🎙💻 Videomarketing & Design</b></summary>
+    <p>
+      <img align="right" width="250" src="./raw/istockphoto-1349094880-612x612.jpg"/>
+      
+<blockquote>
+<!-- agregar texto -->
+</blockquote>
+    
+----
+  
+  </p>
+</details>
+
+
 
 
 
