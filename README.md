@@ -143,11 +143,14 @@ y estoy en busqueda de continuar escribiendo más historias...
 <details>
   <summary><b>📹🎙💻 Videomarketing & Design</b></summary>
     <p>
-      <img align="right" width="250" src="./raw/istockphoto-1349094880-612x612.jpg"/>
+      <img align="right" width="250" src="./raw/marketing.jpg"/>
       
-<blockquote>
-<!-- agregar texto -->
-</blockquote>
+<!-- Design -->
+| **Category** | **Software** |
+| - | - |
+| **Graphic Desing**| [![Photoshop](https://img.shields.io/static/v1?label=&message=Photoshop&color=303952&logo=adobephotoshop&logoColor=#2d98da)](https://www.adobe.com/mx/products/photoshop.html) [![Illustrator](https://img.shields.io/static/v1?label=&message=Illustrator&color=3d3d3d&logo=adobeillustrator&logoColor=#f7b731)](https://www.adobe.com/mx/products/illustrator.html)
+| **Web Design** | [![Adobe XD](https://img.shields.io/static/v1?label=&message=Adobe+XD&color=7F1E51&logo=adobexd&logoColor=#e84393)](https://www.adobe.com/mx/products/xd.html)
+| **Video Editor** | [![Aftereffects](https://img.shields.io/static/v1?label=&message=After+Effects&color=0c2461&logo=adobeaftereffects&logoColor=#778beb)](https://www.adobe.com/mx/products/aftereffects.html)  [![Pro](https://img.shields.io/static/v1?label=&message=Premiere+Pro&color=0c2461&logo=adobepremierepro&logoColor=#8c7ae6)](https://www.adobe.com/mx/products/premiere.html) 
     
 ----
   
