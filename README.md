@@ -62,14 +62,44 @@
       <img align="right" width="250" src="./raw/me_cervantes21.jpg"/>
       
 <blockquote>
-<!-- agregar texto -->
-I'm from Cuernavaca, México.
+<!-- My history -->
+I'm from Cuernavaca, México. 
+
+Todo comienza al rededor de los 13 años con un interes en el diseño gráfico y la programación, el arte y la ecología. A esa edad agarraba trabajos sencillos lo que me hizo ver una demanda en el diseño y la publicidad. 
+Al rededor de los 15 años comienzo con trabajos freelance de diseño y algunos proyectos. 
+
+A la edad de los 16 a los 19 años, comencé trabajando en una imprenta de publicidad en donde me dieron la oportunidad de desarrollarme más como diseñador y auxiliar administrativo, junto con eso estudiaba en la universidad la carrera de Mercadotecnia y publicidad. Al no presentarme un reto más allá de sólo ver lo que ya venía trabajando, decidó cambiar de carrera, ahora a Relaciones Internacionales y Economía, lo cual me resulta muy agradable y estudió al rededor de un año y medio, pero eso tuvo como resultado darme más ganas de emprender y tener negocio propio, así que abandonó la carrera a los 20 y terminó trabajando en algunos lugares y proyectos, a parte también aprendiendo sobre Ciencias Sustentables en talleres y cursos.
+
+A la edad de 21 años, comienzo con un negocio más formal de Muebles ecologicos hechos con llantas y madera reciclada. Por ese periodo nace mi primer hija. Con lo cuál tenía que también tener un trabajo extra, dejó ese emprendimiento por falta de recursos y tiempo. Y mi padre me introduce a la venta de arte; Con lo que ganaba junté para invertir con una networking de telecomunicaciones, y resultó bien el crecimiento del equipo y logre ganar algo de dinero muy rápido.
+
+Ya con 22 años aproximadamente comencé a invertir en crear un pequeño restaurante bar llamado "La Barra Azteca" concepto de burritos con ingredientes prehispanicos y mezcal, vendí la idea y al poco rato conozco una persona y nos asociamos para crear algunas pizzerías, la idea se llamaba "Pizzharina" una pizza de tortilla de harina en vez de masa, como son tradicionales. Continuamos abriendo hasta 3 locales, pero el que era mi socio, terminó haciendo fraudes a personas y a mí, pero yo termine siendo el que pago los platos rotos porque esta persona desapareció y mi nombre estaba en juego. 
+Porque cuento esto... Porque es parte de mi expereciencia, lo que aprendí es invaluable, y hace parte de mi ética. Además ahora me resulta divertido.
+
+Por lo sucedido contraigo varias deudas, pero continuo con tres trabajos a la vez, ya qué venía un segundo bebé en camino.
+
+Así que por las mañanas era ayudante de carpintero ya qué no había trabajos disponibles, después de eso vendía algunos productos de novedad, por las noches hacía diseños y los fines de semana estudiaba diseño 3D y edición de vídeo. No tardó mucho en donde el dueño de la carpintería me ascendiera para realizar modelados 3D de diseños de muebles, cocinas, y ser su auxiliar contable por mi experiencia previa. Pasaron unos meses y justo eso hizo que optará por iniciar mi propia agencia de publicidad, con lo que ahí nace "Tree House, Publish and Desing" Pero su primera creación duró muy poco, porque me hicieron una propuesta para trabajar con una empresa dedicada a la imagen corporativa de escuelas, cuya empresa tenía más de 50 años en el mercado. llamado "Impemex" 
+
+En dónde trabaje desde el área de producción, ventas, diseño hasta el área contable y después administrativa. Dónde pude desarrollar más mi manejo de equipos, pero sobre todo pude llevar a la empresa a una renovación tecnológica, desde la creación de su página web, hacer diseño, campañas publicitarias y su introducción a las redes, google analytics, etc. Periodo del 2018 al 2020, en dónde debido a la pandemia y sus clientes primordialmente pertenecer al sector de la educación, disminuyeron sus ventas y posteriormente a detener labores. 
 
 </blockquote>
-    
+
 ----
-  
+
+# Hay que aprovechar las oportunidades:
+>Dentro del periodo del 2018 al 2020, también pasaba los ratos libres aprendiendo más sobre social media marketing, anális de datos y videomarketing lo cuál iba aplicando en mi trabajo en [Impemex](https://www.impemex.com/) cómo comentaba anteriormente cuando ocurre la pandemía y no puedo continuar trabajando en esa empresa. Pero justo los conocimientos que había adquirido me permitieron continuar con mi proyecto de Tree House, dónde la demanda del mercado aumentaba de querer mudarse a la era digital. Arme un equipo en donde realizabamos desde el diseño de la página web, campañas en redes sociales, con google Ads, lograr posicionar algunos negocios, así hasta mediados del 2021, el problema llego cuando no sabía como poder automatizar todos esos procesos.
+# Ahí llego Python:
+> Tras mi busqueda en como poder automatizar los procesos de redes sociales, buscar ayudar a tomar buenas decisiones empresariales, asistencia y organización, bots de servicio al cliente, y muchas otras partes relacionadas, llevaron a  mi intéres por usar la inteligencia artificial, en donde encontré a Python y el machine learning y así comencé a estudiar de manera autodidacta, también haciendo certificaciones en la web y anális de datos con [Google](https://developers.google.com/machine-learning/crash-course/ml-intro), para mi buena suerte [Impemex](https://www.impemex.com/) volvió a iniciar actividades y me invitaron a trabajar nuevamente, lo cual eso permitió que pudiera en este año 2022 estudiar en [Platzi](https://platzi.com/home) la carrera de Data Scientist & AI. 
+
+# El presente.
+> Tras presentar algunos problemas la empresa de "Impemex" tras la pandemia, deciden los dueños vender la empresa, y así esta comenzando para mí un nuevo comienzo. En dónde busco desarrollarme como Data Scientist y continuar para convertirme en un Machine learning engineer.
+Actualmente estaré subiendo mis avances en Github. 
+y estoy en busqueda de continuar escribiendo más historias...
   </p>
+
+[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
+
+---
+
 </details>
 
 <!-- "Data Skill's" -->
@@ -98,7 +128,8 @@ I'm from Cuernavaca, México.
   <summary><b>📈 Business Intelligence</b></summary>
     <p>
       <img align="right" width="250" src="./raw/descarga.png"/>
-      
+      <b>
+      <img align="right" width="250" src="./raw/Tableau-Logo.png"/>
 <blockquote>
 <!-- agregar texto -->
 </blockquote>
@@ -124,7 +155,6 @@ I'm from Cuernavaca, México.
 </details>
 
 ---
-[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
 
 
 
