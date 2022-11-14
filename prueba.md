@@ -72,3 +72,11 @@ https://www.linkedin.com/in/cervantes21/
 **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=d35400&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 **Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=2f3640&logo=visualstudiocode&logoColor=0097e6)](https://code.visualstudio.com/) [![Google Colab](https://img.shields.io/static/v1?label=&message=Google+Colab&color=e84118&logo=googlecolab&logoColor=#fbc531)](https://colab.research.google.com/) [![Deepnote](https://img.shields.io/static/v1?label=&message=Deepnote&color=dcdde1&logo=deepnote&logoColor=0097e6)](https://deepnote.com/)
+
+---
+<!-- Design -->
+| **Category** | **Software** |
+| - | - |
+| **Graphic Desing**| [![Photoshop](https://img.shields.io/static/v1?label=&message=Photoshop&color=303952&logo=adobephotoshop&logoColor=#2d98da)](https://www.adobe.com/mx/products/photoshop.html) [![Illustrator](https://img.shields.io/static/v1?label=&message=Illustrator&color=3d3d3d&logo=adobeillustrator&logoColor=#f7b731)](https://www.adobe.com/mx/products/illustrator.html)
+| **Web Design** | [![Adobe XD](https://img.shields.io/static/v1?label=&message=Adobe+XD&color=7F1E51&logo=adobexd&logoColor=#e84393)](https://www.adobe.com/mx/products/xd.html)
+| **Video Editor** | [![Aftereffects](https://img.shields.io/static/v1?label=&message=After+Effects&color=0c2461&logo=adobeaftereffects&logoColor=#778beb)](https://www.adobe.com/mx/products/aftereffects.html)  [![Pro](https://img.shields.io/static/v1?label=&message=Premiere+Pro&color=0c2461&logo=adobepremierepro&logoColor=#8c7ae6)](https://www.adobe.com/mx/products/premiere.html) 

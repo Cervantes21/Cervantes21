@@ -126,17 +126,17 @@ y estoy en busqueda de continuar escribiendo más historias...
 <!-- "Business Intelligence" -->
 <details>
   <summary><b>📈 Business Intelligence</b></summary>
-    <p>
-      <img align="right" width="250" src="./raw/descarga.png"/>
-      <b>
-      <img align="right" width="250" src="./raw/Tableau-Logo.png"/>
-<blockquote>
-<!-- agregar texto -->
-</blockquote>
-    
-----
-  
-  </p>
+
+# **Google Analytics**
+
+> Data visualization with
+[![GoogleAnalytics](./raw/descarga.png)](https://analytics.google.com/)
+
+---
+
+# **Tableau**
+>[![Tableau](./raw/Tableau-Logo.png)](https://www.tableau.com/)
+
 </details>
 
 <!-- "Videomarketing & Design" -->
