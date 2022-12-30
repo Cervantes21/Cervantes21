@@ -58,12 +58,19 @@
 ### Hi, i'm Andy!! 👋
 <details>
   <summary><b>🙋‍♂️ About me</b></summary>
+
+<!-- 'Version en Español: -->
+  <details>
+  <summary>
+    <b>Mi historia en Español:</b>
+  </summary>
     <p>
       <img align="right" width="250" src="./raw/me_cervantes21.jpg"/>
-      
-<blockquote>
-<!-- My history -->
-I'm from Cuernavaca, México. 
+
+
+  <blockquote>
+  <!-- My history -->
+Nací en Cuernavaca, México. 
 
 Todo comienza al rededor de los 13 años con un interes en el diseño gráfico y la programación, el arte y la ecología. A esa edad agarraba trabajos sencillos lo que me hizo ver una demanda en el diseño y la publicidad. 
 Al rededor de los 15 años comienzo con trabajos freelance de diseño y algunos proyectos. 
@@ -99,8 +106,62 @@ y estoy en busqueda de continuar escribiendo más historias...
 [![Casco astronauta](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
 
 ---
+  </details>
 
+<!-- 'English version: ' -->
+ <details>
+  <summary>
+    <b>My history in English:</b>
+  </summary>
+    <p>
+      <img align="right" width="250" src="./raw/me_cervantes21.jpg"/>
+
+
+  <blockquote>
+  <!-- My history -->
+I'm from Cuernavaca, México. 
+
+It all starts around the age of 13 with an interest in graphic design and programming, art, and ecology. At that age, he was taking simple jobs which made me see a demand for design and advertising.
+Around the age of 15, I start with freelance design jobs and some projects. 
+
+From the age of 16 to 19, I started working in an advertising printer where I was allowed to develop further as a designer and administrative assistant, along with that I was studying Marketing and Advertising at the university. By not presenting me with a challenge beyond just seeing what I had already been working on, he decided to change his career, now to International Relations and Economics, which I find very pleasant he studied for about a year and a half, but that resulted in giving me more desire to start and have his own business, so he dropped out at 20 and ended up working in some places and projects, apart from also learning about Sustainable Sciences in workshops and courses.
+
+At the age of 21, I start a more formal business of ecological furniture made with tires and recycled wood. During that period my first daughter was born. With the also had to have an extra job, and she left that venture due to a lack of resources and time. And my father introduces me to the sale of art; With what I earned I put together to invest in a telecommunications network, and the growth of the team turned out well and I managed to earn some money very quickly.
+
+At the age of approximately 22, I began to invest in creating a small restaurant-bar called "La Barra Azteca", a concept of burritos with pre-Hispanic ingredients and mezcal, I sold the idea and soon I met a person and we partnered to create some pizzerias, the idea came to life. called "Pizzharina" a flour tortilla pizza instead of dough, as they are traditional. We continued to open up 3 stores, but the one who was my partner, ended up defrauding people and me, but I ended up being the one who paid the piper because this person disappeared and my name was at stake.
+Because I'm telling you this... Because it's part of my experience, what I learned is invaluable, and it's part of my ethics. Also now I find it fun.
+
+Due to what happened, I incur several debts, but I continue to work three jobs at the same time because a second baby was on the way.
+
+So in the mornings I was a carpenter's helper since there were no jobs available, after that I sold some novelty products, at night I made designs and on the weekends I studied 3D design and video editing. It didn't take long for the owner of the carpentry to promote me to make 3D modeling of furniture designs, and kitchens, and be his accounting assistant due to my previous experience. A few months passed and that was exactly what made me decide to start my advertising agency, which is where "Tree House, Publish and Desing" was born. But its first creation did not last very long, because they made me an offer to work with a company dedicated to the corporate image of schools, whose company had been in the market for more than 50 years. called "Impex"
+
+Where I work from the production area, sales, and design to the accounting area and then administrative. Where I was able to further develop my team management, but above all, I was able to lead the company through a technological renovation, from the creation of its website, design, advertising campaigns, and its introduction to networks, google analytics, etc. In the period from 2018 to 2020, due to the pandemic and its clients primarily belonging to the education sector, their sales decreased and later they stopped working.
+
+</blockquote>
+
+----
+
+# Hay que aprovechar las oportunidades:
+>Within the period from 2018 to 2020, I also spent my free time learning more about social media marketing, data analysis, and video marketing, which I was applying in my work at [Impemex](https://www.impemex.com/) as I previously commented when the pandemic occurs and I could no longer continue working at that company. But precisely the knowledge that I had acquired allowed me to continue with my Tree House project, where the market demand increased from wanting to move into the digital age. I put together a team where we carried out everything from the design of the web page, and campaigns on social networks, with Google Ads, to position some businesses, like this until mid-2021, the problem came when I did not know how to automate all those processes.
+
+# Python is coming:
+>After my search on how to automate social media processes, looking to help make good business decisions, assistance, and organization, customer service bots, and many other related parties, led to my interest in using artificial intelligence, where I found Python and machine learning and so I began to study self-taught, also doing web certifications and data analysis with [Google](https://developers.google.com/machine-learning/crash-course/ml- intro), for my good luck [Impemex](https://www.impemex.com/) started activities again and they invited me to work again, which allowed me to study in [Platzi](https://platzi.com/home) the career of Data Scientist & AI. 
+
+
+# In Present:
+> After the "Impemex" company presented some problems after the pandemic, the owners decided to sell the company, and thus a new beginning is beginning for me. Where I am looking to develop myself as a Data Scientist and continue to become a Machine learning engineer.
+Currently, I will be uploading my progress on GitHub.
+and I'm looking to continue writing more stories...
+  </p>
+
+[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
+
+---
+  </details>
+  </details>
 </details>
+
+---
 
 <!-- "Data Skill's" -->
 <details>
