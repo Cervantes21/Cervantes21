@@ -73,9 +73,9 @@
 > As well as having a few previous projects that gave me experience with Python, HTML, CSS, Linux, Microsoft in general, Adobe, etc.
 More information in my story.
 
-> Take some certifications as Data Analyst with Google on Coursera and others as Data Scientist & AI, and Backend Python with Platzi. Currently, I want to continue on this path and become a Machine Learning Engineer.
+> I took some certifications as Data Analyst with Google on Coursera and others as Data Scientist & AI, and Backend Python with Platzi. Currently, I want to continue on this path and become a Machine Learning Engineer.
  I conclude in being able to have the mathematical, logical, technological and soft skills that are required to be a Data Scientist, but you never stop learning. That is why I start this new stage by going deeper into the technological world and learning.
-
+i
   </details>
 
 <!-- 'Version en Español: -->
