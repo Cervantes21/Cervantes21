@@ -13,7 +13,7 @@
 
 <p align="center">
 	<kbd>
-<a href="https://twitter.com/AndyDollin21"><img src="https://img.shields.io/badge/-@AndyDollin21-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.kaggle.com/andydollin21"><img src="https://img.shields.io/badge/-AndyDollin21-00acee?style=flat&logo=Kaggle&logoColor=black" /></a>
 <a href="https://www.linkedin.com/in/cervantes21/"><img src="https://img.shields.io/badge/-Andrés_Cervanes21-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=AndyDollin21"><img src="https://img.shields.io/twitter/follow/AndyDollin21.svg?style=social" alt="Twitter"></a>
 	</kbd>
