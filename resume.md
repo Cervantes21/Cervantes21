@@ -123,6 +123,13 @@ Más información en mi historia.
 # **Tableau**
 >[![Tableau](./raw/Tableau-Logo.png)](https://www.tableau.com/)
 
+---
+
+# **R-studio(Posit)**
+>[![R-studio](./raw/r-studio.png)](https://posit.co/)
+
+---
+
 </details>
 
 <!-- "Videomarketing & Design" -->
