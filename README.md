@@ -53,7 +53,7 @@
     filter: blur(30px);
   }
 </style> -->
-
+<!-- 
 <p><img class="blur-image" align="center" height='cover' width='cover' src="./raw/coded-data.gif"/></p>
 
 <style>
@@ -68,7 +68,7 @@
   -webkit-box-shadow: 0px 0px 3px 5px #FFFFFF;
 }
 
-</style>
+</style> -->
 
 ---
 
