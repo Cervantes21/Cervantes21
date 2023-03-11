@@ -201,6 +201,7 @@ Overall, my work history highlights my adaptability and willingness to learn new
   In summary, R-Studio is a valuable tool for any BI team working with large datasets and needing advanced statistical analysis and accurate predictive models.
   </blockquote>
 </p>
+
 ---
 
 </details>
