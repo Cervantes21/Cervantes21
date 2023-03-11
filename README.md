@@ -70,7 +70,7 @@
 
 </style> -->
 
----
+<!-- --- -->
 
 </details>
 
@@ -82,7 +82,7 @@
  </p>	
 	</details> -->
 
----
+<!-- --- -->
 
 <!-- "About me and skill's" -->
 ## **Hi, i'm Andy!!** 👋
