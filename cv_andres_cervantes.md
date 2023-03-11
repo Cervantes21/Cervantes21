@@ -1,39 +1,38 @@
-# Andrés Cervantes 🇲🇽 🐉
-### Data Scientist with Python 🐍
+# Andrés Cervantes 🇲🇽 :dragon: 
+### Data Scientist with Python :snake: 
+<a href="https://www.github.com/Cervantes21"><img src="https://img.shields.io/static/v1?label=&color=000&message=Cervantes21&logo=Github&logoColor=#01a3a4&"/></a>
 
 
 <div align="center">
-	<a href="Artificial I">
-		<img src="./raw/artificial-intelligence-4389372_960_720.jpg" alt="press" height="325" width="470">
+	<a href="Artificial-I">
+		<img src="./raw/artificial-intelligence-4389372_960_720.jpg" alt="press" height="325" width="470" style="border-radius:20px;">
 	</a>
 </div>
 
-<!--
-# Welcome to my profile: | ![visitors](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
--->
+
 <!-- Social media -->
 
 <p align="center">
 	<kbd>
-<a href="https://twitter.com/AndyDollin21"><img src="https://img.shields.io/badge/-@AndyDollin21-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.kaggle.com/andydollin21"><img src="https://img.shields.io/static/v1?label=&color=000&message=AndyDollin21&logo=Kaggle&logoColor=#01a3a4&"/></a>
+<a href="https://stackoverflow.com/users/21354210/andydollin21"><img src="https://img.shields.io/static/v1?label=&color=white&message=andydollin21&logo=StackOverFlow&logoColor=#01a3a4&"/></a>
 <a href="https://www.linkedin.com/in/cervantes21/"><img src="https://img.shields.io/badge/-Andrés_Cervanes21-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=AndyDollin21"><img src="https://img.shields.io/twitter/follow/AndyDollin21.svg?style=social" alt="Twitter"></a>
 	</kbd>
 </p>
 
----
 
 <!-- "Tech Stack" -->
-<details>
-  <summary><b>⚡ Tech Stack</b></summary>
+<h2><b>Tech Stack⚡: </b></h2>
 
 <!-- Machine learning skill -->
 | **Category** | **Technologies** |
 | - | - |
-**Set** |[![Python](https://img.shields.io/static/v1?label=&message=Python&color=FCC624&logo=python&logoColor=#3742fa)](https://www.python.org/) [![R](https://img.shields.io/static/v1?label=&message=R+Project&color=1289A7&logo=r&logoColor=FFFFFF)](https://www.r-project.org/) [![HTML](https://img.shields.io/static/v1?label=&message=HTML5&color=ff7f50&logo=HTML5&logoColor=FFFFFF)](https://lenguajehtml.com/html/) [![CSS3](https://img.shields.io/static/v1?label=&message=CSS&color=1e90ff&logo=css3&logoColor=FFFFFF)](https://lenguajecss.com/css/)
-**Framework** | [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=0a3d62&logo=numpy&logoColor=FFFFFF)](https://numpy.org/) [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=1B1464&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=FFC312&logo=python&logoColor=2f3542)](https://matplotlib.org/) [![seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=006266&logo=python&logoColor=FFFFFF)](https://seaborn.pydata.org/)
+**Set** |[![Python](https://img.shields.io/static/v1?label=&message=Python&color=FCC624&logo=python&logoColor=#3742fa)](https://www.python.org/) [![R](https://img.shields.io/static/v1?label=&message=R+Project&color=1289A7&logo=r&logoColor=FFFFFF)](https://www.r-project.org/) [![HTML](https://img.shields.io/static/v1?label=&message=HTML5&color=ff7f50&logo=HTML5&logoColor=FFFFFF)](https://lenguajehtml.com/html/) [![CSS3](https://img.shields.io/static/v1?label=&message=CSS&color=1e90ff&logo=css3&logoColor=FFFFFF)](https://lenguajecss.com/css/) [![Java-sc](https://img.shields.io/static/v1?label=&message=JavaScript&color=1e272e&logo=JavaScript&logoColor=#3742fa)](https://www.javascript.com/)
+**Framework** | [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=0a3d62&logo=numpy&logoColor=FFFFFF)](https://numpy.org/) [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=1B1464&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=FFC312&logo=python&logoColor=2f3542)](https://matplotlib.org/) [![seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=006266&logo=python&logoColor=FFFFFF)](https://seaborn.pydata.org/) [![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-Learn&color=3498db&logo=scikitlearn&logoColor=#d35400)](https://scikit-learn.org/stable/)
 **Data** | [![PostgreSQL](https://img.shields.io/static/v1?label=&message=Postgre+SQL&color=227093&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/static/v1?label=&message=My+SQL&color=2d98da&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/) [![Tensorflow](https://img.shields.io/static/v1?label=&message=Tensorflow&color=FF9F43&logo=tensorflow&logoColor=feca57)](https://www.tensorflow.org/)
 **Backend** | [![Django](https://img.shields.io/static/v1?label=&message=Django&color=009432&logo=django&logoColor=FFFFFF)](https://www.djangoproject.com/) [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=f5f6fa&logo=flask&logoColor=2f3640)](https://flask.palletsprojects.com/) [![FastApi](https://img.shields.io/static/v1?label=&message=FastApi&color=01a3a4&logo=fastapi&logoColor=FFFFFF)](https://flask.palletsprojects.com/)
+**Front** | [![React](https://img.shields.io/static/v1?label=&message=React&color=2d3436&logo=React&logoColor=00cec9)](https://www.djangoproject.com/)
 **Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/) [![AWS](https://img.shields.io/static/v1?label=&message=AWS+Cloud&color=ffb142&logo=amazonaws&logoColor=1e272e)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
 **Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/)
@@ -41,52 +40,58 @@
 **Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=2f3640&logo=visualstudiocode&logoColor=0097e6)](https://code.visualstudio.com/) [![Google Colab](https://img.shields.io/static/v1?label=&message=Google+Colab&color=e84118&logo=googlecolab&logoColor=#fbc531)](https://colab.research.google.com/) [![Deepnote](https://img.shields.io/static/v1?label=&message=Deepnote&color=dcdde1&logo=deepnote&logoColor=0097e6)](https://deepnote.com/)
 
 ----
-<p><img align="center" width="190" src="./raw/coded-data.gif"/></p>
-
----
-
-</details>
-
-<!-- Dev profile -->
- <p>
-    <details>
-	  <summary><b>🔵🔴🟡🟢 Developer GitHub profile in button:⬅⬇ </b></summary><a href="https://github.com/Cervantes21"><img src="./raw/octo-michi.jpeg" alt="github-logo" width="500px"></a>
-<hr>
- </p>	
-	</details>
-
-<!-- Dev profile
- <p>
-    <details>
-	  <summary><b>🔵🔴🟡🟢 Developer Google profile in button:⬅⬇ </b></summary><a href="https://g.dev/cervantes21"><img src="./raw/python.gif" alt="python_bg" width="500px"></a>
-
----
- </p>	
-	</details>
--->
----
 
 <!-- "About me and skill's" -->
 ## **Hi, i'm Andy!!** 👋
 <details>
-  <summary><b>🙋‍♂️ About me</b></summary>
 
----
+<summary><b>Resume🐧 About me: 🙋‍♂️</b></summary>
 
 ### **Resume:**
-> I was born in Cuernavaca, Morelos Mexico.
 
-> In my last job, I worked as assistant manager in the administrative area. (Also developing myself at an educational level.) With which we use technological tools to begin to automate the company. From the creation of its website, social networks, chat assistants and databases. Even in the implementation in the accounting and administrative area for decision-making based on data. E.g. Where would it be convenient to send sales agents in person, and which clients can be addressed remotely? Of course, for all this to be possible, we used different tools and there were many processes.
+<p></summary><img align="right" width=200 height=200 style="border-radius:100px;" src="./raw/me_cervantes21.jpg"/>
+  <blockquote>
+  <h2>Andres Cervantes</h2>
+  <h3><b>Data Scientist | Python Back-end | Data Analyst</b></h3>
+  <h4>Studying: <a href="https://uninter.edu.mx/">UNINTER</a> <b>(International Relationships and Economy) #not concluded</b></h4>
+<h3><b>Last experience:</b></h3> 
+Tree House, Publish and Desing. Where i made web pages, use HTML5, CSS, Wordpress, and No-Code tools, and analysis in Google Analytics. 
 
-> That's why I show my skills in graphic form.
+Impemex, a dedicated company to Corporate image. My work was in accounting and administrative area, my daily tools was Excel, MySQL, and Python. 
 
-> As well as having a few previous projects that gave me experience with Python, HTML, CSS, Linux, Microsoft in general, Adobe, etc.
-More information in my story.
+<h3><b>Skills:</b></h3>
+I have a technical skillset with experience in Python, R, JavaScript, and SQL.(Extra Markdown)
+I was working with various cloud platforms and databases, including Google Cloud, MySQL, PostgreSQL, and Azure Cloud.
+I have experience with web development, using tools like HTML5, CSS, WordPress, and no-code tools, as well as analyzing website traffic using Google Analytics.
 
-> Take some certifications as Data Analyst with Google on Coursera and others as Data Scientist & AI, and Backend Python with Platzi. Currently, I want to continue on this path and become a Machine Learning Engineer.
- I conclude in being able to have the mathematical, logical, technological and soft skills that are required to be a Data Scientist, but you never stop learning. That is why I start this new stage by going deeper into the technological world and learning.
+Likewise, I'm familiar with various Python libraries, such as Django, FastApi, Pandas, Numpy, Sckit-Learn, Selenium, and Seaborn.
+I have experience working with Microsoft Office, particularly Excel.
+
+<h3><b>Strengths:</b></h3>
+I have a diverse skillset, with experience in both technical and administrative roles. I don't know but I adaptable and able to work with different programming languages and tools.
+
+Not only that, but I have strong analytical skills, with experience in data analysis and interpretation and experience in web development, which can be helpful in creating data visualizations and web applications.
+
+The most important for me is to work with ethics, as evidenced by my experience in work and studying both and while working full-time and being empathetic and inclusive with others.
+
+<h3><b>Work style:</b></h3>
+I have experience working in different industries, including web development, accounting, and administration. Working with different tools and programming languages.
+I have experience working independently and in teams.
+And using data to inform decision-making.
+<br>
+
+<br><h2><b>Work History:</b></h2>
+
+I have worked as a freelance web developer, creating and maintaining websites for clients using HTML5, CSS, Wordpress, and no-code tools. During this time, I also began to develop my skills in Python, using it to automate tasks and improve workflow. My experience with Python allowed me to work more efficiently and effectively, and I have continued to use Python throughout my career.
+
+At IMPEMEX, I worked in the accounting and administrative area, using Microsoft Excel, MySQL, and Python to manage financial data and streamline processes. My experience with Python was particularly valuable in this role, as I was able to use it to automate repetitive tasks and create custom scripts to improve efficiency. During my time at IMPEMEX, I gained two years of experience with Python, which has become a core component of my technical skillset.
+
+Overall, my work history highlights my adaptability and willingness to learn new skills. I started in web development, then expanded my skillset to include data analysis and Python, which have become key components of my technical skillset. My experience with Python has allowed me to automate tasks, streamline processes, and work more efficiently, which has been valuable in all of my roles since then.
+  </blockquote>
+</p>
 
 </details>
+
 
 ---
 
@@ -94,7 +99,7 @@ More information in my story.
 <details>
   <summary><b>🔍 Data skill's</b></summary>
     <p>
-      <img align="left" width="250" src="./raw/data-analysis.gif"/>
+      <img align="left" width=200px heigth=200px style="border-radius:50%; margin-top:34px;" src="./raw/data-analysis.gif" s/>
       
 <!-- <blockquote>
 <!-- agregar texto -->
@@ -102,7 +107,7 @@ More information in my story.
 
 | **Category** | **Technologies** |
 | - | - |
-**Data Manipulation** |[![Python](https://img.shields.io/static/v1?label=&message=Python&color=009432&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![R](https://img.shields.io/static/v1?label=&message=R+Project&color=1289A7&logo=r&logoColor=FFFFFF)](https://www.r-project.org/) [![MicrosoftExcel](https://img.shields.io/static/v1?label=&message=Microsoft+Excel&color=A3CB38&logo=microsoftexcel)](https://www.office.com/) [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=0a3d62&logo=numpy&logoColor=FFFFFF)](https://numpy.org/) [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=1B1464&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
+**Data Manipulation** |[![Python](https://img.shields.io/static/v1?label=&message=Python&color=009432&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![R](https://img.shields.io/static/v1?label=&message=R+Project&color=1289A7&logo=r&logoColor=FFFFFF)](https://www.r-project.org/) [![MicrosoftExcel](https://img.shields.io/static/v1?label=&message=Microsoft+Excel&color=A3CB38&logo=microsoftexcel)](https://www.office.com/) [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=0a3d62&logo=numpy&logoColor=FFFFFF)](https://numpy.org/) [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=1B1464&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/) [![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-Learn&color=3498db&logo=scikitlearn&logoColor=#d35400)](https://scikit-learn.org/stable/)
 **Data Viz** |[![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=FFC312&logo=&logoColor=FFFFFF)](https://matplotlib.org/) [![seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=006266&logo=seaborn&logoColor=FFFFFF)](https://seaborn.pydata.org/) [![MicrosoftOffice](https://img.shields.io/static/v1?label=&message=Microsoft+Office&color=e67e22&logo=microsoftoffice)](https://www.office.com/)
 **Data Base** | [![PostgreSQL](https://img.shields.io/static/v1?label=&message=Postgre+SQL&color=227093&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/static/v1?label=&message=My+SQL&color=2d98da&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
 **Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/) [![AWS](https://img.shields.io/static/v1?label=&message=AWS+Cloud&color=ffb142&logo=amazonaws&logoColor=1e272e)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
@@ -115,24 +120,48 @@ More information in my story.
 <details>
   <summary><b>📈 Business Intelligence</b></summary>
 
-# **Google Analytics**
+---
+## **Google Analytics**
 
-> Data visualization with
-[![GoogleAnalytics](./raw/descarga.png)](https://analytics.google.com/)
+<p><a href="https://analytics.google.com/"><img src="./raw/descarga.png" alt="Google-Analtytics" width="300" align="right"></a>
+  <blockquote>
+  Google Analytics is a super powerful tool for analyzing website traffic, which lets BI teams analyze data and get valuable insights on website performance and user behavior. By integrating Google Analytics into BI platforms, we can access a variety of advanced analysis functions and create custom reports to make informed decisions based on data.
+
+  With Google Analytics, we can get a complete picture of user behavior on a website, including visitor numbers, session duration, most visited pages, geographic location of visitors, and much more. Plus, Google Analytics offers data visualization options that make it easy to interpret data, enabling us to make more effective decisions.
+
+  Overall, Google Analytics is a must-have tool for any BI team looking to use data to drive business strategy. It's an awesome way to gain insights and improve website performance.
+  </blockquote>
+</p>
 
 ---
+## **Tableau**
 
-# **Tableau**
->[![Tableau](./raw/Tableau-Logo.png)](https://www.tableau.com/)
+<p><a href="https://www.tableau.com/"><img src="./raw/Tableau-Logo.png" alt="Tableu" width="300" align="right"></a>
+  <blockquote>
+  Tableau is a powerful data visualization and analysis tool. With Tableau, we can connect multiple data sources and create interactive and attractive visualizations. Plus, the platform is super intuitive and easy to use, making it accessible for users of all skill levels.
+
+  Using Tableau, we can analyze and visualize large amounts of data in real-time, allowing us to make informed and strategic decisions more efficiently. The platform also allows us to collaborate with other team members and share visualizations with them.
+
+  Tableau is an incredibly useful tool for anyone working with data and looking to create dynamic visualizations and analysis.
+  </blockquote>
+</p>
 
 ---
-
 # **R-studio(Posit)**
->[![R-studio](./raw/r-studio.png)](https://posit.co/)
 
+<p><a href="https://posit.co/"><img src="./raw/r-studio.png" alt="Posit" heigth="300" width="320" align="right"></a>
+  <blockquote>
+  R-Studio is a powerful tool that allows BI teams to analyze large datasets and create customized visualizations. It's especially useful for statistical analysis and predictive modeling.
+
+  With R-Studio, we can manipulate and transform data in real-time, enabling us to make informed decisions on the fly. Additionally, R-Studio offers a wealth of data analysis libraries and packages that help us create accurate predictive models and detailed analyses.
+
+  In summary, R-Studio is a valuable tool for any BI team working with large datasets and needing advanced statistical analysis and accurate predictive models.
+  </blockquote>
+</p>
 ---
 
 </details>
+
 
 <!-- "Videomarketing & Design" -->
 <details>
@@ -153,58 +182,3 @@ More information in my story.
 </details>
 
 ---
-
-<!-- 'English version: ' -->
- <details>
-  <summary>
-    <b>My history 📝:</b>
-  </summary>
-    <p>
-      <img align="right" width="250" src="./raw/me_cervantes21.jpg"/>
-
-
-  <blockquote>
-  <!-- My history -->
-I was born in Cuernavaca, Mexico.
-
-It all starts around the age of 13 with an interest in graphic design and programming, art, and ecology. At that age, he was taking simple jobs, which made me see a demand for design and advertising.
-When i was 15 years old, I start with freelance design jobs and some projects.
-
-When i was  16 to 19 years, I started working in an advertising printer where I was allowed to develop further as a designer and administrative assistant, along with that I was studying Marketing and Advertising at the university. By not presenting myself with a challenge beyond just seeing what I had already been working on, I decided to change my career, now to International Relations and Economics, which I find very pleasant I studied for about a year and a half, but that resulted in giving me more desire to start and have his own business, so he dropped out at 20 and ended up working in some places and projects, apart from also learning about Sustainable Sciences in workshops and courses.
-
-when i was 21 years, I start a more formal business of ecological furniture made with tires and recycled wood. During that period my first daughter was born. He also had to have an extra job, he left that venture due to a lack of resources and time. And my father introduces me to the sale of art;
-With what I earned I put together to invest in telecommunications networking, and the growth of the team turned out well and I managed to earn some money very quickly.
-
-Approximately 22 years, I began to invest in creating a small restaurant-bar called "La Barra Azteca", a concept of burritos with pre-Hispanic ingredients and mezcal, I sold the idea and soon I met a person and we partnered to create some pizzerias, the idea came to life. called "Pizzharina" a flour tortilla pizza instead of dough, as they are traditional. We continued to open up 3 stores, but the one who was my partner, ended up defrauding people and me, but I ended up being the one who paid the piper because this person disappeared and my name was at stake.
-Because I'm telling you this... Because it's part of my experience,  and it's part of my ethics. Besides, now I find it funny.
-
-Due to what happened, I incur several debts, but I continue to work three jobs at the same time because a second baby was on the way.
-So in the mornings she was a carpenter's helper since there were no jobs available, after that she sold some novelty products, in the evenings she made designs and on the weekends she studied 3D design and video editing. It didn't take long for the owner of the carpentry to promote me to carry out 3D modeling of furniture designs, and kitchens, and to be his accounting assistant due to my previous experience. A few months passed and that was exactly what made me decide to start my advertising agency, which is where "Tree House, Publish and Desing" was born. But its first creation did not last very long, because they made me an offer to work with a company dedicated to the corporate image of schools, whose company had been in the market for more than 50 years. called "Impex". I work from the production area, sales, and design to the accounting area and then administrative. Where I was able to further develop my team management, but above all, I was able to lead the company through a technological renovation, from the creation of its website, design, advertising campaigns, and its introduction to networks, Google Analytics, etc. In the period from 2018 to 2020, due to the pandemic and its clients primarily belonging to the education sector, their sales decreased and later they stopped working.
-
-</blockquote>
-
-----
-
-# We need to take advantage of the opportunities:
->Within the period from 2018 to 2020, I also spent my free time learning more about social media marketing, data analysis, and video marketing, which I was applying in my work at [Impemex](https://www.impemex.com/ ) how I commented before when the pandemic occurs, and I cannot continue working in that company. But precisely the knowledge that I had acquired allowed me to continue with my Tree House project, where the market demand increased from wanting to move into the digital age. I put together a team where we carried out everything from the design of the web page, and campaigns on social networks, with Google Ads, to position some businesses, like this until mid-2021, the problem came when I did not know how to automate all those processes.
-
-# Python is coming:
->My search for how to automate social media processes, and to help make good business decisions, assistance and organization, customer service bots, and many other related parties, led to my interest in using artificial intelligence, where I found Python and **Machine learning**, and so I began to study self-taught, also doing certifications on the web and data analysis with [Google](https://developers.google.com/machine-learning/crash -course/ml-intro), for my good luck [Impemex](https://www.impemex.com/) started activities again, and they invited me to work again, which allowed me to study in this year 2022. [Platzi](https://platzi.com/home) the career of Data Scientist & AI.
-
-# In Present:
-> After the "Impemex" company presented some problems due to the pandemic, the owners decided to sell the company, and thus a new beginning is beginning for me. Where I am looking to develop myself as a Data Scientist and continue to become a Machine learning engineer.
-Currently, I will be uploading my progress on GitHub.
-And I'm looking to continue writing more stories...
-  </p>
-
-[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif)](https://platzi.com/cursos "Nunca pares de aprender")
-
----
-</details>
-
-
-
-
-
-
-<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cervantes21&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cervantes21&layout=compact)](https://github.com/cervantes21/github-readme-stats) -->
