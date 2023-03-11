@@ -51,42 +51,36 @@
 
 <p></summary><img align="right" width=200 height=200 style="border-radius:100px;" src="./raw/me_cervantes21.jpg"/>
   <blockquote>
-  <h2>Andres Cervantes</h2>
-  <h3><b>Data Scientist | Python Back-end | Data Analyst</b></h3>
-  <h4>Studying: <a href="https://uninter.edu.mx/">UNINTER</a> <b>(International Relationships and Economy) #not concluded</b></h4>
-<h3><b>Last experience:</b></h3> 
-Tree House, Publish and Desing. Where i made web pages, use HTML5, CSS, Wordpress, and No-Code tools, and analysis in Google Analytics. 
+    <h2>Andres Cervantes</h2>
+    <h3><b>Data Scientist | Python Back-end | Data Analyst</b></h3>
+    <h4>Studying: <a href="https://uninter.edu.mx/">UNINTER</a> <b>(International Relationships and Economy) #not concluded</b></h4>
+    <h3><b>Last experience:</b></h3> 
+      Tree House, Publish and Desing. Where i made web pages, use HTML5, CSS, Wordpress, and No-Code tools, and analysis in Google Analytics.<br>
+      Impemex, a dedicated company to Corporate image. My work was in accounting and administrative area, my daily tools was Excel, MySQL, and Python. 
 
-Impemex, a dedicated company to Corporate image. My work was in accounting and administrative area, my daily tools was Excel, MySQL, and Python. 
+  <h3><b>Skills:</b></h3>
+    I have a technical skillset with experience in Python, R, JavaScript, and SQL.(Extra Markdown)
+    I was working with various cloud platforms and databases, including Google Cloud, MySQL, PostgreSQL, and Azure Cloud.
+    I have experience with web development, using tools like HTML5, CSS, WordPress, and no-code tools, as well as analyzing website traffic using Google Analytics.
+    Likewise, I'm familiar with various Python libraries, such as Django, FastApi, Pandas, Numpy, Sckit-Learn, Selenium, and Seaborn.
+    I have experience working with Microsoft Office, particularly Excel.
 
-<h3><b>Skills:</b></h3>
-I have a technical skillset with experience in Python, R, JavaScript, and SQL.(Extra Markdown)
-I was working with various cloud platforms and databases, including Google Cloud, MySQL, PostgreSQL, and Azure Cloud.
-I have experience with web development, using tools like HTML5, CSS, WordPress, and no-code tools, as well as analyzing website traffic using Google Analytics.
+  <h3><b>Strengths:</b></h3>
+    I have a diverse skillset, with experience in both technical and administrative roles. I don't know but I adaptable and able to work with different programming languages and tools.
+    Not only that, but I have strong analytical skills, with experience in data analysis and interpretation and experience in web development, which can be helpful in creating data visualizations and web applications.
+    The most important for me is to work with ethics, as evidenced by my experience in work and studying both and while working full-time and being empathetic and inclusive with others.
 
-Likewise, I'm familiar with various Python libraries, such as Django, FastApi, Pandas, Numpy, Sckit-Learn, Selenium, and Seaborn.
-I have experience working with Microsoft Office, particularly Excel.
+  <h3><b>Work style:</b></h3>
+    I have experience working in different industries, including web development, accounting, and administration. Working with different tools and programming languages.
+    I have experience working independently and in teams.
+    And using data to inform decision-making.
+    <br>
 
-<h3><b>Strengths:</b></h3>
-I have a diverse skillset, with experience in both technical and administrative roles. I don't know but I adaptable and able to work with different programming languages and tools.
+  <br><h2><b>Work History:</b></h2>
 
-Not only that, but I have strong analytical skills, with experience in data analysis and interpretation and experience in web development, which can be helpful in creating data visualizations and web applications.
-
-The most important for me is to work with ethics, as evidenced by my experience in work and studying both and while working full-time and being empathetic and inclusive with others.
-
-<h3><b>Work style:</b></h3>
-I have experience working in different industries, including web development, accounting, and administration. Working with different tools and programming languages.
-I have experience working independently and in teams.
-And using data to inform decision-making.
-<br>
-
-<br><h2><b>Work History:</b></h2>
-
-I have worked as a freelance web developer, creating and maintaining websites for clients using HTML5, CSS, Wordpress, and no-code tools. During this time, I also began to develop my skills in Python, using it to automate tasks and improve workflow. My experience with Python allowed me to work more efficiently and effectively, and I have continued to use Python throughout my career.
-
-At IMPEMEX, I worked in the accounting and administrative area, using Microsoft Excel, MySQL, and Python to manage financial data and streamline processes. My experience with Python was particularly valuable in this role, as I was able to use it to automate repetitive tasks and create custom scripts to improve efficiency. During my time at IMPEMEX, I gained two years of experience with Python, which has become a core component of my technical skillset.
-
-Overall, my work history highlights my adaptability and willingness to learn new skills. I started in web development, then expanded my skillset to include data analysis and Python, which have become key components of my technical skillset. My experience with Python has allowed me to automate tasks, streamline processes, and work more efficiently, which has been valuable in all of my roles since then.
+    I have worked as a freelance web developer, creating and maintaining websites for clients using HTML5, CSS, Wordpress, and no-code tools. During this time, I also began to develop my skills in Python, using it to automate tasks and improve workflow. My experience with Python allowed me to work more efficiently and effectively, and I have continued to use Python throughout my career.
+    At IMPEMEX, I worked in the accounting and administrative area, using Microsoft Excel, MySQL, and Python to manage financial data and streamline processes. My experience with Python was particularly valuable in this role, as I was able to use it to automate repetitive tasks and create custom scripts to improve efficiency. During my time at IMPEMEX, I gained two years of experience with Python, which has become a core component of my technical skillset.
+    Overall, my work history highlights my adaptability and willingness to learn new skills. I started in web development, then expanded my skillset to include data analysis and Python, which have become key components of my technical skillset. My experience with Python has allowed me to automate tasks, streamline processes, and work more efficiently, which has been valuable in all of my roles since then.
   </blockquote>
 </p>
 
@@ -125,11 +119,9 @@ Overall, my work history highlights my adaptability and willingness to learn new
 
 <p><a href="https://analytics.google.com/"><img src="./raw/descarga.png" alt="Google-Analtytics" width="300" align="right"></a>
   <blockquote>
-  Google Analytics is a super powerful tool for analyzing website traffic, which lets BI teams analyze data and get valuable insights on website performance and user behavior. By integrating Google Analytics into BI platforms, we can access a variety of advanced analysis functions and create custom reports to make informed decisions based on data.
-
-  With Google Analytics, we can get a complete picture of user behavior on a website, including visitor numbers, session duration, most visited pages, geographic location of visitors, and much more. Plus, Google Analytics offers data visualization options that make it easy to interpret data, enabling us to make more effective decisions.
-
-  Overall, Google Analytics is a must-have tool for any BI team looking to use data to drive business strategy. It's an awesome way to gain insights and improve website performance.
+    Google Analytics is a super powerful tool for analyzing website traffic, which lets BI teams analyze data and get valuable insights on website performance and user behavior. By integrating Google Analytics into BI platforms, we can access a variety of advanced analysis functions and create custom reports to make informed decisions based on data. 
+    With Google Analytics, we can get a complete picture of user behavior on a website, including visitor numbers, session duration, most visited pages, geographic location of visitors, and much more. Plus, Google Analytics offers data visualization options that make it easy to interpret data, enabling us to make more effective decisions.
+    Overall, Google Analytics is a must-have tool for any BI team looking to use data to drive business strategy. It's an awesome way to gain insights and improve website performance.
   </blockquote>
 </p>
 
@@ -138,11 +130,9 @@ Overall, my work history highlights my adaptability and willingness to learn new
 
 <p><a href="https://www.tableau.com/"><img src="./raw/Tableau-Logo.png" alt="Tableu" width="300" align="right"></a>
   <blockquote>
-  Tableau is a powerful data visualization and analysis tool. With Tableau, we can connect multiple data sources and create interactive and attractive visualizations. Plus, the platform is super intuitive and easy to use, making it accessible for users of all skill levels.
-
-  Using Tableau, we can analyze and visualize large amounts of data in real-time, allowing us to make informed and strategic decisions more efficiently. The platform also allows us to collaborate with other team members and share visualizations with them.
-
-  Tableau is an incredibly useful tool for anyone working with data and looking to create dynamic visualizations and analysis.
+    Tableau is a powerful data visualization and analysis tool. With Tableau, we can connect multiple data sources and create interactive and attractive visualizations. Plus, the platform is super intuitive and easy to use, making it accessible for users of all skill levels.
+    Using Tableau, we can analyze and visualize large amounts of data in real-time, allowing us to make informed and strategic decisions more efficiently. The platform also allows us to collaborate with other team members and share visualizations with them.
+    Tableau is an incredibly useful tool for anyone working with data and looking to create dynamic visualizations and analysis.
   </blockquote>
 </p>
 
@@ -151,13 +141,12 @@ Overall, my work history highlights my adaptability and willingness to learn new
 
 <p><a href="https://posit.co/"><img src="./raw/r-studio.png" alt="Posit" heigth="300" width="320" align="right"></a>
   <blockquote>
-  R-Studio is a powerful tool that allows BI teams to analyze large datasets and create customized visualizations. It's especially useful for statistical analysis and predictive modeling.
-
-  With R-Studio, we can manipulate and transform data in real-time, enabling us to make informed decisions on the fly. Additionally, R-Studio offers a wealth of data analysis libraries and packages that help us create accurate predictive models and detailed analyses.
-
-  In summary, R-Studio is a valuable tool for any BI team working with large datasets and needing advanced statistical analysis and accurate predictive models.
+    R-Studio is a powerful tool that allows BI teams to analyze large datasets and create customized visualizations. It's especially useful for statistical analysis and predictive modeling.
+    With R-Studio, we can manipulate and transform data in real-time, enabling us to make informed decisions on the fly. Additionally, R-Studio offers a wealth of data analysis libraries and packages that help us create accurate predictive models and detailed analyses.
+    In summary, R-Studio is a valuable tool for any BI team working with large datasets and needing advanced statistical analysis and accurate predictive models.
   </blockquote>
 </p>
+
 ---
 
 </details>
