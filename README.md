@@ -106,26 +106,25 @@ Impemex, a dedicated company to Corporate image. My work was in accounting and a
 I have a technical skillset with experience in Python, R, JavaScript, and SQL.(Extra Markdown)
 I was working with various cloud platforms and databases, including Google Cloud, MySQL, PostgreSQL, and Azure Cloud.
 I have experience with web development, using tools like HTML5, CSS, WordPress, and no-code tools, as well as analyzing website traffic using Google Analytics.
-
+<br>
 Likewise, I'm familiar with various Python libraries, such as Django, FastApi, Pandas, Numpy, Sckit-Learn, Selenium, and Seaborn.
 I have experience working with Microsoft Office, particularly Excel.
-
+<br>
 <h3><b>Strengths:</b></h3>
-I have a diverse skillset, with experience in both technical and administrative roles. I don't know but I adaptable and able to work with different programming languages and tools.
+I have a diverse skillset, with experience in both technical and administrative roles. I adaptable and able to work with different programming languages and tools.
 
-Not only that, but I have strong analytical skills, with experience in data analysis and interpretation and experience in web development, which can be helpful in creating data visualizations and web applications.
+Not only that, but I have strong analytical skills, with experience in data analysis, interpretation, and experience in web development, which is helpful to create data visualizations and web applications.
 
-The most important for me is to work with ethics, as evidenced by my experience in work and studying both and while working full-time and being empathetic and inclusive with others.
-
-<h3><b>Work style:</b></h3>
+To work with ethics is the most important for me.
+I considered myself someone creative and analytic, i like to solve problems from another perspective.
+<br>
 I have experience working in different industries, including web development, accounting, and administration. Working with different tools and programming languages.
 I have experience working independently and in teams.
 And using data to inform decision-making.
 <br>
+<h2><b>Work History:</b></h2>
 
-<br><h2><b>Work History:</b></h2>
-
-I have worked as a freelance web developer, creating and maintaining websites for clients using HTML5, CSS, Wordpress, and no-code tools. During this time, I also began to develop my skills in Python, using it to automate tasks and improve workflow. My experience with Python allowed me to work more efficiently and effectively, and I have continued to use Python throughout my career.
+I have worked as a freelance web developer, creating and maintaining websites for clients using HTML5, CSS, Wordpress, and no-code tools. During this time, I also began to develop my skills in Python, using it to automate tasks and improve workflow. My experience with Python allowed me to work more efficiently and effectively, and I have being using Python throughout my career.
 
 At IMPEMEX, I worked in the accounting and administrative area, using Microsoft Excel, MySQL, and Python to manage financial data and streamline processes. My experience with Python was particularly valuable in this role, as I was able to use it to automate repetitive tasks and create custom scripts to improve efficiency. During my time at IMPEMEX, I gained two years of experience with Python, which has become a core component of my technical skillset.
 
