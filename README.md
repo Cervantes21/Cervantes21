@@ -8,7 +8,8 @@
 	</a>
 </div>
 
-# Welcome to my profile: | ![visitors](https://visitor-badge.glitch.me/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
+# Welcome to my profile: | ![visitors](https://vbr.wocr.tk/badge?page_id=cervantes.21.cervantes21&style=flat-square&color=0088cc)
+
 <!-- Social media -->
 
 <p align="center">
