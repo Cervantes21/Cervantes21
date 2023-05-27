@@ -8,7 +8,7 @@
 	</a>
 </div>
 
-# Welcome to my profile: | ![visitors](https://visitor-badge.feriirawann.repl.co?page_id=cervantes.21.cervantes21&style=square&color=0088cc)
+# Welcome to my profile: | ![visitors](https://visitor-badge.feriirawann.repl.co?username=Cervantes21&repo=cervantes21&style=flat-square&color=0088cc)
 <!-- ![visitors](https://vbr.wocr.tk/badge?page_id=cervantes.21.cervantes21&style=square&color=0088cc) -->
 <!-- Social media -->
 
